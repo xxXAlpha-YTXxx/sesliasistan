@@ -1,2 +1,2 @@
-# sesliasistan
-Sesli Asistan Yaptım Sizlerle Paylaşmak İstedim Bence Çok Güzel Oldu
+# Sesli Asistan
+Sesli Asistan Yaptım Sizlerle Paylaşmak İstedim Bence Çok Güzel Oldu dosyalar.txt dosyasını açın linklerin birinden SesliAsistanSetup.exe dosyasını indirip çalıştırın normal 1 kurulum yapın ardından kurulumun sonunna beni oku açık olması gerekmektedir komutların listesini açıcaktır ondan sonra kullanabilirsiniz (Bu Uygulama Windows İçin Yapılmıştır "Android, iOS,  Mac, Linux" Gibi İşletim Sistemlerinde Kullanılamaz!!!)
